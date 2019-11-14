@@ -1,0 +1,343 @@
+Variable;Description
+ANNO;anno
+TRIM;trimestre
+REG;regione
+WAVQUA;Wave quartina in corso
+GRACOM;codice grandi comuni
+SG4;Le chiederò prima alcune informazioni sulla sua famiglia. Quante persone vivono abitualmente in questa casa  compreso lei? Escluda eventuali collaboratori domestici o affittuari. 
+SG11;Indicare il sesso di NOME
+SG13;NOME è nato in Italia o all'estero?
+SG16;NOME ha la cittadinanza italiana?
+SG18B;In quale anno NOME è venuto/a a vivere in Italia la prima volta?
+SG18D;Si ricorda in quale mese?
+SG18E;Da quel momento NOME ha sempre vissuto in Italia? Non tenga conto di viaggi  vacanze fuori dall'Italia di durata inferiore ad un anno
+SG18F;Da che anno NOME vive in Italia senza allontanarsi per un anno o più?
+SG18G;Si ricorda in quale mese?
+SG24A;A quale di questi diplomi fa riferimento?
+SG24B;Ha conseguito un titolo di studio post-laurea  post-diploma accademico AFAM o dottorato di ricerca?
+SG25;Mi può dire quale TITOLO DI STUDIO? (*)
+SG26;Si ricorda l'anno in cui ha conseguito TITOLO DI STUDIO?
+SG27;Si ricorda l'età in cui ha conseguito TITOLO DI STUDIO?
+SG27A;Si ricorda il mese in cui lo ha conseguito?
+B1;LA SCORSA SETTIMANA NOME ha svolto almeno un'ora di lavoro? Consideri il lavoro da cui ha ricavato o ricaverà un guadagno o il lavoro non pagato solo se effettuato abitualmente presso la ditta di un familiare
+B2;Sempre nella settimana che va DA LUNEDI' ... A DOMENICA... NOME aveva comunque un lavoro che non ha svolto  ad esempio: per un periodo limitato di ridotta attività  per malattia  per vacanza  per cassa integrazione guadagni  etc.?
+B3;Qual è il motivo principale per cui non ha lavorato in quella settimana?
+B3bis;In quella settimana aveva un contratto o un accordo di lavoro? (*)
+B4;NOME svolge:
+B4A;NOME è assunto/a con un contratto di lavoro alle dipendenze? (*)
+B4bis;Il contratto di collaborazione coordinata e continuativa (con o senza progetto) prevede l'obbligo per il datore di lavoro di versare i contributi previdenziali presso l'INPS. Per questo lavoro a NOME vengono versati i contributi presso l'INPS? (*)
+B6;Questo periodo di assenza dal lavoro durerà meno o più di tre mesi  da quando è iniziato a quando terminerà?
+B7;Questo periodo di assenza è retribuito almeno in parte?
+B8;Si tratta di un periodo di aspettativa?
+B9;Come coadiuvante familiare percepisce una retribuzione?
+B10;Nella settimana che va DA LUNEDI' ... A DOMENICA ... il contratto era in vigore  cioè la data di scadenza era successiva a LUNEDI'?
+B11;La sua attività lavorativa è momentaneamente sospesa (ad esempio  per aggiornamento professionale  per ristrutturazione locali  per chiusura stagionale) o è definitivamente conclusa?
+C1;NOME svolge:
+C1bis;Il contratto di collaborazione coordinata e continuativa prevede l'obbligo per il datore di lavoro di versare i contributi previdenziali presso l'INPS. Per questo lavoro a NOME vengono versati i contributi presso l'INPS? (*)
+C1A;NOME è assunto/a con un contratto di lavoro alle dipendenze? (*)
+C1B;Il contratto è finalizzato alla realizzazione di un progetto  si tratta cioè di un lavoro a progetto?
+C1D;Il proprietario dell'azienda familiare è uno dei componenti che vivono in questa famiglia?
+C4;Ha dei dipendenti? Se l'aiutano dei familiari o altre persone senza essere pagati non li consideri
+C5;NOME lavora per una sola azienda e/o cliente o per più di una azienda e/o cliente?
+C6;Abitualmente NOME decide dove lavorare o è tenuto/a a lavorare presso l'azienda e/o il cliente? (*)
+C7;Decide autonomamente l'orario di lavoro o è tenuto a rispettare quello dell'azienda e/o del cliente per cui lavora? (*)
+C7bis;NOME decide autonomamente le tariffe  i prezzi e/o i compensi dovuti per il lavoro che svolge?
+C7ter;Chi definisce le tariffe  i prezzi e/o i compensi dovuti per il lavoro?
+C9;NOME è:
+C10;NOME ha l'incarico di coordinare il lavoro svolto da altre persone?
+C14;L'Ente  l'Azienda in cui NOME lavora ha una o più sedi (o stabilimenti)?
+C16_c;Codice a 4 digit ATECO 2007 della tabella Ateco
+C18;Quante persone lavorano nella sede in cui NOME lavora? Conti anche se stesso e tutti gli altri lavoratori con qualsiasi mansione e qualifica
+C19;Mi può dire esattamente il numero di persone?
+C20;NOME ha un contratto a termine (a tempo determinato) o un contratto a tempo indeterminato (senza una scadenza)? (*)
+C21;Qual è la durata complessiva in mesi dell'attuale contratto? (*)
+C22;A prescindere dal tipo di contratto  per quale ragione il suo lavoro è a termine?
+C24;Ma NOME è forse un/una lavoratore/trice in somministrazione (ex interinale)  cioè ha un contratto con un'agenzia di somministrazione (ex-interinale) ma lavora in un'altra impresa?
+C24bis;Per questo lavoro  NOME è retribuito/a dall'impresa presso la quale lavora o dall'agenzia di somministrazione?
+C24ter;NOME lavora presso la sede dell'agenzia di somministrazione (ad esempio come contabile  amministrativo  responsabile del personale  ecc)?
+C25;NOME ha accettato un lavoro a tempo determinato perché non vuole un lavoro stabile o perché non ha trovato un lavoro a tempo indeterminato?
+C27;NOME ha un contratto a tempo pieno o un contratto part-time (a tempo parziale)? (*)
+C27B;Di che tipo di part-time si tratta?
+C27D;Lavora prevalentemente:
+C28;Lavora part-time (a tempo parziale) perché non vuole un lavoro a tempo pieno  non ha trovato un lavoro a tempo pieno o per altri motivi?
+C29B;NOME lavora part-time perché nella zona in cui vive i servizi pubblici e/o privati  cui affidare la cura di bambini o di altre persone bisognose di assistenza  sono assenti  inadeguati o troppo costosi? Consideri anche baby-sitter o assistenti a pagamento.
+C31;Escludendo l'interruzione per i pasti e gli spostamenti casa-lavoro  NOME di solito quante ore lavora a settimana? (*)
+C31A;Considerando le ultime 4 settimane  escludendo l'interruzione per i pasti e gli spostamenti casa-lavoro  NOME mediamente quante ore ha lavorato a settimana?
+C32;LA SETTIMANA SCORSA   cioè DA LUNEDI' ... A DOMENICA ... NOME ha lavorato meno ore o più ore del solito? (*)
+C33;NOME principalmente ha lavorato più del solito perché ha svolto: (*)
+C34;Qual è il motivo principale per cui NOME ha lavorato meno del solito?
+C35;Rispetto all'orario contrattuale (o all'accordo verbale) LA SETTIMANA SCORSA  DA LUNEDI' ... A DOMENICA ...  NOME ha svolto comunque ore di straordinario retribuito e/o straordinario non retribuito (ore in più non recuperabili)?
+C36;Rispetto all'orario contrattuale (o all'accordo verbale) quante ore di straordinario retribuito e/o non retribuito ha fatto?
+C36A;Quante ore di straordinario le verranno retribuite?
+C37;Complessivamente nella settimana che va DA LUNEDI' ... A DOMENICA ... NOME quante ore ha lavorato?
+C38;Nella settimana DA LUNEDI' ... A DOMENICA ...  NOME avrebbe voluto lavorare un numero di ore diverso da quelle che ha svolto? Se svolge più di un lavoro consideri l'orario complessivo
+C39;Complessivamente nella settimana che va DA LUNEDI' ... A DOMENICA ... quante ore avrebbe voluto lavorare? Se svolge più di un lavoro consideri l'orario complessivo
+C39A;Nella settimana DA LUNEDI' ... A DOMENICA ...  NOME in quale dei seguenti modi avrebbe voluto lavorare più ore?
+C40;Nella settimana DA LUNEDI' ... A DOMENICA ... o entro le due settimane successive sarebbe stato/a disponibile a lavorare più ore?
+C41;Per quale motivo non avrebbe potuto?
+C42;Nelle 4 settimane DAL ... AL ... NOME ha lavorato di sera? (dalle ore 20 alle 23 circa)
+C43;Nelle 4 settimane DAL ... AL ... NOME ha lavorato di notte? (dopo le ore 23)
+C44;Nelle 4 settimane DAL ... AL ... NOME ha lavorato di sabato (indipendentemente dall'orario)?
+C45;Nelle 4 settimane DAL ... AL ... NOME ha lavorato di domenica (indipendentemente dall'orario)?
+C46;Per il tipo di lavoro svolto da NOME è prevista una organizzazione a turni  cioè si alternano più lavoratori in particolari orari o giorni della settimana?
+C47;Nelle 4 settimane DAL ... AL ... NOME ha svolto turni di lavoro?
+C48;Per accordo con il datore di lavoro  nelle 4 settimane DAL ... AL ... NOME ha effettuato a casa ore di lavoro retribuite o che possono essere recuperate? (*)
+C53;Per iniziare questo lavoro NOME ha dovuto trasferire il suo domicilio/abitazione da un altro Comune?
+C55;NOME in che anno ha cominciato a lavorare per il datore di lavoro attuale  a prescindere dal tipo di contratto?
+C56;Si ricorda l'età in cui lo ha iniziato?
+C57;Si ricorda il mese?
+C59;Ha trovato questo lavoro tramite un Centro pubblico per l'impiego  cioè l'ex ufficio di collocamento?
+C59AB;In che modo NOME ha trovato questo lavoro?
+C60;Questo è il suo primo lavoro?
+C61;In che anno NOME ha iniziato il suo primo lavoro?
+C62;Si ricorda l'eta' in cui ha iniziato a lavorare?
+C73;NOME quanto è soddisfatto/a del suo lavoro attuale?
+C74;NOME quanto è soddisfatto/a del guadagno?
+C75;NOME quanto è soddisfatto/a del clima e delle relazioni di lavoro?
+C76;NOME quanto è soddisfatto/a delle opportunità di carriera offerte dal suo lavoro? (*)
+C77;NOME quanto è soddisfatto/a del numero di ore lavorate?
+C78;NOME quanto è soddisfatto/a della stabilità del lavoro?
+C80;NOME quanto è soddisfatto/a della distanza e dei tempi di percorrenza casa-lavoro?
+C81A;NOME quanto ritiene interessante il lavoro che fa? Dia un punteggio da 0 a 10  dove 0 indica “per niente interessante” e 10 “totalmente interessante”.
+C82;NOME ritiene probabile perdere l'attuale lavoro/cessare l'attività nei prossimi sei mesi?
+C83;E NOME ritiene facile trovare/avviare un lavoro simile a quello che ora sta svolgendo?
+D1;Oltre al lavoro di cui abbiamo parlato finora  LA SETTIMANA SCORSA  cioè DA LUNEDI' ... A DOMENICA ...  NOME aveva anche altri lavori? Consideri qualsiasi lavoro (ad esempio  lezioni private  lavori svolti nel fine settimana) da cui ricava un guadagno o il lavoro non pagato solo se effettuato abitualmente presso la ditta di un familiare
+D2;LA SETTIMANA SCORSA  DA LUNEDI ... A DOMENICA ...  NOME quante ore ha dedicato a questo secondo lavoro? (*)
+D3;NOME fa questo lavoro: (*)
+D4;NOME svolge:
+D5;NOME è assunto/a con un contratto di lavoro alle dipendenze? (*)
+D5bis;Il contratto di collaborazione coordinata e continuativa (con o senza progetto) prevede l'obbligo per il datore di lavoro di versare i contributi previdenziali presso l'INPS. Per questo lavoro a NOME vengono versati i contributi presso l'INPS? (*)
+D7;Ha dei dipendenti? Se l'aiutano dei familiari o altre persone senza essere pagati non li consideri
+D9_c;Codice a 4 digit ATECO 2007 della tabella Ateco
+E1;Nel corso della sua vita  NOME ha mai svolto un lavoro? Consideri il lavoro da cui ha ricevuto un guadagno o il lavoro non pagato solo se effettuato presso l'azienda di un familiare
+E2;In che anno ha smesso di lavorare? (*)
+E3;Quanti anni aveva?
+E4;In che mese?
+E6;NOME svolgeva:
+E7;NOME era assunto/a con un contratto di lavoro alle dipendenze? (*)
+E8;Aveva dei dipendenti? Se l'aiutavano dei familiari o altre persone senza essere pagati  non li consideri
+E13_c;Codice a 4 digit ATECO 2007 della tabella Ateco
+E14;Qual è il motivo principale per cui NOME ha smesso di lavorare?
+E15;Qual è il motivo principale per cui NOME ha concluso la sua attività lavorativa?
+F1;NOME cerca un altro lavoro?
+F2;Sta cercando un nuovo lavoro o un secondo lavoro (da aggiungere a quello attuale)?
+F3;Qual è il motivo principale per cui NOME cerca un altro lavoro?
+F4;Nel nuovo lavoro vorrebbe lavorare più o meno ore rispetto a quelle lavorate attualmente?
+F5;Nelle 4 settimane DAL ... AL ... ha fatto qualcosa per cercare lavoro?
+F6_01;Ha avuto contatti con un Centro pubblico per l'impiego (ex Ufficio di collocamento) per cercare lavoro
+F6_02;Ha sostenuto un colloquio di lavoro  una selezione presso privati
+F6_03;Ha sostenuto prove scritte e/o orali di un concorso pubblico
+F6_04;Ha inviato una domanda per partecipare ad un concorso pubblico
+F6_05;Ha esaminato offerte di lavoro sui giornali
+F6_06;Ha messo inserzioni sui giornali o ha risposto ad annunci
+F6_07;Ha fatto domande di lavoro e/o inviato (o consegnato) curriculum a privati
+F6_08;Ha chiesto a parenti  amici  conoscenti  sindacati
+F6_09;Ha cercato lavoro su Internet
+F6_10;Ha avuto contatti con una agenzia di somministrazione (ex-interinale) o con una struttura di intermediazione diversa da un Centro pubblico per l'impiego per cercare lavoro
+F6_11;Ha cercato terreni  locali  attrezzature per avviare una attività autonoma
+F6_12;Ha chiesto permessi  licenze  finanziamenti per avviare una attività
+F6_96;Altra azione (specificare)
+F6A_01;Collegandosi al sito web di un Centro pubblico per l'impiego (ex Ufficio di collocamento)
+F6A_02;Esaminando offerte di lavoro
+F6A_03;Mettendo inserzioni o rispondendo ad annunci
+F6A_96;Altro (specificare)
+F7;NOME cerca un lavoro?
+F8;Nelle 4 settimane DAL ... AL ... ha fatto qualcosa per cercare lavoro?
+F9;Quanti mesi sono passati dall'ultima volta che ha fatto qualcosa per cercare lavoro?
+F10;Qual è il motivo principale per cui NOME non ha cercato un lavoro nelle 4 settimane DAL ... AL ...
+F10A;NOME non ha cercato lavoro perché nella zona in cui vive i servizi pubblici e/o privati  cui affidare la cura di bambini o di altre persone bisognose di assistenza  sono assenti  inadeguati o troppo costosi? Consideri anche baby-sitter o assistenti a pagamento.
+F12;Anche se al momento non sta cercando lavoro  NOME vorrebbe comunque lavorare? (*)
+F13;Se NOME avesse trovato lavoro nella settimana DA LUNEDI' ... A DOMENICA ... avrebbe potuto iniziare in quella settimana o entro le due settimane successive?
+F14;Per quale motivo non avrebbe potuto iniziare a lavorare?
+F16;Nelle 4 settimane DAL ... AL ... NOME ha avuto contatti con un Centro pubblico per l'Impiego (ex Ufficio di collocamento) per cercare lavoro?
+F17;Nelle 4 settimane DAL ... AL ... NOME ha sostenuto un colloquio di lavoro  una selezione presso privati?
+F18;Nelle 4 settimane DAL ... AL ... NOME ha sostenuto le prove scritte e/o orali di un concorso pubblico?
+F19;Nelle 4 settimane DAL ... AL ... NOME ha inviato una domanda per partecipare ad un concorso pubblico?
+F20;Nelle 4 settimane DAL ... AL ... NOME ha esaminato offerte di lavoro sui giornali?
+F21;Nelle 4 settimane DAL ... AL ... NOME ha messo inserzioni sui giornali o ha risposto ad annunci?
+F22;Nelle 4 settimane DAL ... AL ... NOME ha fatto domande di lavoro e/o ha inviato (o consegnato) curriculum a privati?
+F23;Nelle 4 settimane DAL ... AL ... NOME si è rivolto/a a parenti  amici  conoscenti  sindacati per trovare lavoro?
+F24;Nelle 4 settimane DAL ... AL ... NOME ha cercato lavoro su Internet?
+F24A_01;Collegandosi al sito web di un Centro pubblico per l'impiego (ex Ufficio di collocamento)
+F24A_02;Esaminando offerte di lavoro
+F24A_03;Mettendo inserzioni o rispondendo ad annunci
+F24A_96;Altro (specificare)
+F25;Nelle 4 settimane DAL ... A ... NOME ha avuto contatti con un'agenzia di somministrazione (ex interinale) o con una struttura di intermediazione diversa da un Centro pubblico per l'impiego per cercare lavoro?
+F26;Nelle 4 settimane DAL ... AL ... NOME ha cercato terreni  locali  attrezzature per avviare una attività autonoma?
+F27;Nelle 4 settimane DAL ... AL ... NOME ha chiesto permessi  licenze  finanziamenti per avviare una attività autonoma?
+F28;Nelle 4 settimane DAL ... AL ... NOME ha fatto altre azioni di ricerca di lavoro  non comprese tra quelle precedenti?
+F29_01;Si  in attesa di risultati di concorsi pubblici
+F29_02;Si  in attesa di risposte da aziende  da privati
+F29_03;Si  in attesa di una chiamata dal Centro per l'impiego
+F29_04;No
+F29_97;Non sa
+F30;NOME ha già trovato un lavoro che deve iniziare?
+F31;Da quanti mesi NOME sta cercando lavoro?
+F32;NOME immediatamente prima di iniziare a cercare un lavoro:
+F33;Se NOME avesse trovato lavoro nella settimana DA LUNEDI' ... A DOMENICA ... avrebbe potuto iniziare in quella settimana o entro le due settimane successive?
+F34;Per quale motivo non avrebbe potuto iniziare a lavorare?
+F35;NOME sta cercando un lavoro in proprio o come dipendente?
+F36;NOME sta cercando un lavoro a tempo pieno o part-time (a tempo parziale)?
+F37;Se NOME non trovasse un lavoro a tempo pieno accetterebbe un lavoro part-time (a tempo parziale)?
+F38;Se NOME non trovasse un lavoro part-time (a tempo parziale) accetterebbe un lavoro a tempo pieno?
+F40;Sarebbe disposto/a ad accettare un lavoro a termine (con una specifica durata)?
+F41;Sarebbe disposto/a a lavorare:
+F43;Per quanti mesi ha cercato lavoro prima di trovare questo che sta per iniziare?
+F44;Immediatamente prima di iniziare a cercare questo lavoro NOME:
+F45;NOME inizierà questo lavoro entro il [DOMENICA+90gg]?
+F46;Se NOME avesse trovato lavoro nella settimana DA LUNEDI' ... A DOMENICA ... avrebbe potuto iniziare in quella settimana o entro le due settimane successive?
+F47;Per quale motivo non avrebbe potuto iniziare a lavorare?
+F48;Il lavoro che sta per iniziare è in proprio o alle dipendenze?
+F49;Lavorerà a tempo pieno o part-time (a tempo parziale)?
+F50;Si tratta di un lavoro a termine (con una specifica durata)?
+G1;NOME è mai stato/a in contatto con un Centro pubblico per l'Impiego (ex Ufficio di collocamento)?
+G3;Quando è stata l'ultima volta che NOME ha avuto contatti con un Centro pubblico per l'Impiego?
+G4_10;Primo contatto per informazioni e/o compilazione o aggiornamento scheda anagrafica professionale SAP)
+G4_11;Effettuare per la prima volta la dichiarazione di disponibilità al lavoro (DID)
+G4_12;Rinnovare la dichiarazione di disponibilità al lavoro (DID) o confermare lo stato di disoccupazione
+G4_14;Sottoscrivere il Patto di Servizio
+G4_08;Consulenza o orientamento finalizzata alla ricerca di lavoro (compresa formazione e tutoraggio per avviare un'attività autonoma)
+G4_03;Verificare l'esistenza di opportunità di lavoro
+G4_05;Ha ricevuto un'offerta di partecipazione ad un corso di formazione professionale organizzato e/o riconosciuto dalla Regione
+G4_06;Ha ricevuto un'offerta di partecipazione ad un altro tipo di corso di formazione professionale (non della Regione)
+G4_13;Ha ricevuto un'offerta di tirocinio
+G4_15;Ha ricevuto una proposta di partecipazione a una selezione
+G4_04;Ha ricevuto un'offerta di lavoro
+G4_96;Altro (specificare)
+G4_97;Non sa
+G7_01;Sì  con una agenzia di somministrazione
+G7_02;Sì  da altri operatori pubblici o privati
+G7_03;No
+G7_97;Non sa
+G8_01;Sì  da una agenzia di lavoro interinale
+G8_02;Sì  da un'altra struttura (pubblica o privata)
+G8_03;No
+G8_97;Non sa
+G9;Nella settimana DA LUNEDI' ... A DOMENICA ... NOME aveva il sussidio di disoccupazione (ad es. NASPI o DISCOLL) o l'indennità di mobilità o  pur avendone maturato il diritto  era in attesa di riscuoterlo?
+H1;Nelle 4 settimane DAL ... AL ... NOME era iscritto/a ad un corso di istruzione scolastico  universitario  accademico (Conservatorio di musica  Accademia di belle arti  ecc)? Includa anche l'iscrizione ai corsi di istruzione e formazione IFP IFTS  ITS
+H1B;NOME si è iscritto/a ad un corso di istruzione scolastico  universitario  accademico  di istruzione e formazione IFP  IFTS  ITS  successivamente a ULTIMO GIORNO SETTIMANA DI RIFERIMENTO? (*)
+H1D;Considerando  invece  i 12 mesi dal ULTIMO GIORNO DELLA SETTIMANA DI RIFERIMENTO-365gg al ULTIMO GIORNO DELLA SETTIMANA DI RIFERIMENTO  NOME è stato iscritto/a ad un corso di istruzione scolastico  universitario  accademico? Consideri anche l’iscrizione ai corsi di istruzione e formazione IFP IFTS  ITS  ai corsi di formazione professionale regionale di durata uguale o superiore alle 600 ore (6 mesi) che rilasciano una qualifica e i corsi pre-accademici di Conservatorio di musica e Accademia di danza.
+H2A;A quale di questi corsi fa riferimento?
+H2B;A quale di questi corsi fa riferimento?
+H3;Mi può dire più esattamente a quale corso era iscritto/a o ha intenzione di iscriversi?
+H4;Nelle 4 settimane DAL … AL … ha partecipato a qualcuna di queste altre attività formative?
+H4H_01;Sì  corsi di formazione/workshop/seminari/conferenze per interesse professionale
+H4H_02;Sì  corsi/lezioni private per interesse personale (es. cucina  ceramica  musica  danza  lingue  informatica  fotografia ecc.)
+H4H_03;Sì  corsi sportivi con la presenza di un istruttore/maestro
+H4H_04;Sì  lezioni private con l'ausilio di un insegnante o di un tutor a pagamento (escluse le lezioni gratuite ricevute da un amico/conoscente o da un collega)
+H4H_05;Sì  altro corso/attività formativa
+H4H_06;No
+H4H_97;Non sa
+H5;DAL … AL … complessivamente quante ore ha dedicato a questa/e attività formativa/e? Escluda gli spostamenti ed eventuali compiti a casa (*)
+H6;Di quale attività formativa si tratta? (*)
+H7;Qual è l'argomento del corso/attività cui ha partecipato?
+H8;NOME ha seguito questo/a corso/attività prevalentemente:
+H9;Sempre nelle 4 settimane DAL ... AL ... NOME ha seguito questo/a corso/attività durante l'orario di lavoro?
+H12A;Nelle 4 settimane dal ... al … NOME ha svolto uno stage o un tirocinio non retribuito?
+H12B;Complessivamente  quanto dura questo stage o tirocinio?
+H13;In passato NOME ha portato a termine un corso di formazione professionale riconosciuto dalla Regione e che ha rilasciato una qualifica professionale? (*)
+H14;Quanto durava questo corso?
+H15;Per frequentare questo corso era necessario un titolo di studio particolare?
+H16;Qual era l'argomento del corso?
+H17;In che anno ha concluso questo corso?
+H18;Si ricorda l'età?
+H19;Si ricorda il mese in cui lo ha concluso?
+I1;Nella settimana DAL ... AL ... NOME si considerava occupato  disoccupato  casalinga  studente o ritirato dal lavoro?
+I5;A MESE INDAGINE del ANNO PRECEDENTE INDAGINE NOME si considerava occupato  disoccupato  casalinga  studente o ritirato dal lavoro?
+I6;NOME svolgeva:
+I7;NOME era assunto/a con un contratto di lavoro alle dipendenze? (*)
+I8;NOME aveva dei dipendenti? Se l'aiutavano dei familiari o altre persone senza essere pagati non li consideri
+I9;Il suo lavoro era a termine (lavoro a tempo determinato)  oppure non aveva una scadenze (lavoro a tempo indeterminato)?
+I11_c;Codice a 4 digit ATECO 2007 della tabella Ateco
+I12;A MESE INDAGINE del ANNO INDAGINE-1 NOME risiedeva a COMUNE?
+I13;E a MESE INDAGINE del ANNO INDAGINE-2 NOME risiedeva a COMUNE?
+RIP5;ripartizione geografica in 5 classi
+RIP3;ripartizione geografica in 3 classi
+ETAM;età in anni compiuti (con ricodifiche per MFR)
+CLETAD;classi di età decennali
+CLETAQ;classi di età quinquennali
+CLETAS;età in 17 classi
+CITTAD;cittadinanza
+NASSES;stato estero di nascita (SG15)
+CITSES;cittadinanza (SG17)
+LLASES;dove lavora più spesso (codifica stato estero) (C52)
+RAPSES;residenza un anno prima (codifica stato estero) (I16)
+COND3;condizione professionale a 3 modalità
+COND10;condizione professionale a 10 modalità
+DIPAUT;posizione nella professione
+DIPIND;dipendenti - indipendenti attività principale
+ASSOCC;assente dal lavoro (classificato come occupato: Si - No)
+POSPRO;posizione nella professione dettagliata
+DETIND;lavoro a tempo determinato o indeterminato
+PIEPAR;lavoro a tempo pieno/parziale (per gli occupati)
+DURATT;durata del lavoro attuale
+INIATT;inizio del lavoro attuale
+ORELAV;ore complessivamente lavorate
+PROF1;professione a 1 digit attività principale
+PROF3;professione attività principale 3 digit
+ISCO3D;occupation
+PROFM;professione attività principale 4 digit (con ricodifiche per MFR)
+ATE2D;attività economica principale 2 digit
+CAT12;ateco a 12 classi
+CAT5;ateco a 5 classi
+CAT3;ateco a 3 classi
+LAVSPE;lavoro fuori dal comune di residenza
+REGSPE;codice regione dove lavora più spesso (C51)
+PROSPE;codice provincia dove lavora più spesso
+TRACOM;trasferimento per lavoro attuale
+REGTRA;codice regione in cui abitava prima (C54)
+PROTRA;codice provincia in cui abitava prima
+RETRIC;retribuzione netta del mese scorso
+INCDEC;monthly (take-home) pay from main job
+DIPAUS;posizione nella professione per il secondo lavoro
+DIPINS;dipendenti - indipendenti attività secondaria
+PROF1S;professione attività secondaria a 1 digit
+PROF3S;professione attività secondaria a 3 digit
+PROFSM;professione secondaria 4 digit (con ricodifiche per MFR)
+ATE2DS;attività economica secondaria 2 digit
+CAT12S;ateco 12 classi per il secondo lavoro
+CAT5S;ateco 5 classi per il secondo lavoro
+CAT3S;ateco 3 classi per il secondo lavoro
+DIPAUE;posizione nella professione per le precedenti esperienze di lavoro
+DIPINE;dipendenti - indipendenti precedenti esperienze di lavoro
+PROF1E;professione precedente a 1 digit
+PROF3E;professione precedenti esperienze di lavoro 3 digit
+PROFEM;professione precedente esperienza di lavoro 4 digit (con ricodifiche per MFR)
+ATE2DE;attività economica precedente 2 digit
+CAT12E;ateco 12 classi per le precedenti esperienze di lavoro
+CAT5E;ateco 5 classi per le precedenti esperienze di lavoro
+CAT3E;ateco 3 classi per le precedenti esperienze di lavoro
+DIPAUA;posizione nella professione assenti
+DIPINA;dipendenti - indipendenti assenti
+DIPAUP;posizione nella professione anno precedente
+DIPINP;dipendenti - indipendenti anno precedente
+ATE2DP;attività economica 2 digit anno precedente
+CAT12P;ateco 12 classi anno precedente
+CAT5P;ateco 5 classi anno precedente
+CAT3P;ateco 3 classi anno precedente
+DOVRIS;residenza un anno prima
+REGPRE;codice regione residenza anni precedenti
+PROPRE;codice provincia residenza anno precedente
+ESPLAV;ha precedenti esperienze
+DURNOC;durata della non occupazione
+DURRIC;durata della ricerca
+DURAD;durata della disoccupazione
+HATLEV;highest level of education or training successfully completed
+COEF;coefficiente di riporto all'universo
+STACIM;stato civile (con ricodifiche per MFR)
+RELPARM;relazione di parentela nel nucleo 2 (MFR)
+AMATRIM;anno di matrimonio (MFR)
+MFRFAM;codice famiglia per MFR (ricodificato con metodo casuale)
+MFRIND;codice identificativo dell'individuo all'interno della famiglia per MFR (ricodificato con metodo casuale)
+NN2M;numero nucleo 2 (MFR)
+RPN2M;relazione di parentela nel nucleo 2 (MFR)
+TFM;tipologia familiare (con ricodifiche per MFR)
+TN2M;tipo nucleo 2 (MFR)
+TISTUD;titolo di studio a 10 modalità  di fatto una riaggregazione della SG24
+EDULEV;titolo di studio a 6 modalità  di fatto una riaggregazione della SG24
+COISTR;Corso d'istruzione a 11 modalità
+EDUCST;Student or apprentice in regular education during the last four weeks
+COURAT;Did you attend any courses  seminars  conferences or receive private lessons or instruction outside the regular education system (hereafter referred to as taught-learning activities) within the last four weeks?
+PROVCM;Provincia/Città Metropolitana
+TICONT;Tipo contratto
+MOTIPT;Motivo del lavoro part-time
