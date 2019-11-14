@@ -36,7 +36,8 @@ Models predictions are analysed with SHAP (SHapley Additive explanations) values
 ## Model(s) Results 
 
 	  
-Model|	     accuracy|	precision|	recall|	f1-score|				
+Model|	     accuracy|	precision|	recall|	f1-score|	
+--- | --- | --- | --- | --- |			
 Random Forest |	0.796139|	0.799797|	0.796139|	0.797398|
 XGBoost	0.771542	|0.782238	|0.771542	|0.774723|
 KNN	0.719323|	0.724730	|0.719323	|0.721355|
