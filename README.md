@@ -27,8 +27,14 @@ The main data source for this project is ISTAT, I have collected and scraped dat
 
 1. Clone this repo 
 2. Place the `Colab Notebooks` inside your Google Drive main page
-2. Raw Data is being kept [here](https://github.com/Attol8/Italy_unemployment/tree/master/data) within this repo.  
-3. All the notebooks are kept [here](https://github.com/Attol8/Italy_unemployment/tree/master/notebooks). If you want to run a Notebook, just open it from Google Drive and start running cells
+2. Raw Data is being kept [here](https://github.com/Attol8/Italy_unemployment/tree/master/Colab%20Notebooks/data) within this repo.  
+3. All the notebooks are kept [here](https://github.com/Attol8/Italy_unemployment/tree/master/Colab%20Notebooks/notebooks). If you want to run a Notebook, just open it from Google Drive and start running cells
 4. If you want to reproduce training for the model that predicts unemployment at the individual model, run `individual_model.ipynb` in the `notebooks` folder of the repo.
 
 ## Model(s) Results 
+
+	  
+Model|	     accuracy|	precision|	recall|	f1-score|				
+Random Forest |	0.796139|	0.799797|	0.796139|	0.797398|
+XGBoost	0.771542	|0.782238	|0.771542	|0.774723|
+KNN	0.719323|	0.724730	|0.719323	|0.721355|
