@@ -23,6 +23,8 @@ A full-stack data science project that looks to investigate unemployment in Ital
 ## Project Description
 The main data source for this project is ISTAT, I have collected and scraped data from [their public database](http://dati.istat.it/), in particualr from the workforce survey conducted in Italy every quarter. I have built models to predict for unemployment at the individual level and deployed a web-application to explore the results (under construction).
 
+Models predictions are analysed with SHAP (SHapley Additive explanations) values, a unified approach to explain the output of machine learning models.
+
 ## Getting Started
 
 1. Clone this repo 
